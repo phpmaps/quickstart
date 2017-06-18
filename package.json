@@ -1,0 +1,16 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "forever": "0.15.3",
+    "forever-monitor": "1.7.1",
+    "request": "2.81.0",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3"
+  }
+}
